@@ -1,0 +1,22 @@
+# ninja log v6
+1182	15619	1720569358407276346	CMakeFiles/TextFinder.dir/textfinder.cpp.o	c9fe2255ec7261a3
+1181	14014	1720569358406276340	CMakeFiles/TextFinder.dir/main.cpp.o	ab972bc7c38cc3dc
+1181	13820	1720569358406276340	CMakeFiles/TextFinder.dir/TextFinder_autogen/mocs_compilation.cpp.o	b9917d67f84be4d6
+1183	1623	1720569358408276352	CMakeFiles/TextFinder.dir/TextFinder_autogen/EWIEGA46WW/qrc_textfinder.cpp.o	495c53d12ab19ce0
+15619	16543	1720569372844365555	TextFinder	83dcfbcc8bc50cce
+67	1164	1720569358376276154	/home/xris/Dev/Qt/TextFinder/build/Desktop_Qt_6_7_2-Debug/TextFinder_autogen/mocs_compilation.cpp	8209076f83e9f797
+67	1164	1720569358376276154	/home/xris/Dev/Qt/TextFinder/build/Desktop_Qt_6_7_2-Debug/TextFinder_autogen/timestamp	8209076f83e9f797
+67	1164	1720569358376276154	TextFinder_autogen/mocs_compilation.cpp	8209076f83e9f797
+1165	1181	1720569358403276321	TextFinder_autogen/EWIEGA46WW/qrc_textfinder.cpp	251f3cf99087d999
+67	1164	1720569358376276154	TextFinder_autogen/timestamp	8209076f83e9f797
+1165	1181	1720569358403276321	/home/xris/Dev/Qt/TextFinder/build/Desktop_Qt_6_7_2-Debug/TextFinder_autogen/EWIEGA46WW/qrc_textfinder.cpp	251f3cf99087d999
+69	790	1720569423387675209	build.ninja	d24a1675042c9c93
+3	75	1720569422929672421	/home/xris/Dev/Qt/TextFinder/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/cmake.verify_globs	4e6557dc7ee2ddd
+75	523	1720569423387675209	build.ninja	d24a1675042c9c93
+2	76	1720569423419675404	/home/xris/Dev/Qt/TextFinder/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/cmake.verify_globs	4e6557dc7ee2ddd
+80	111	1720569423497675879	TextFinder_autogen/timestamp	8209076f83e9f797
+80	111	1720569423497675879	TextFinder_autogen/mocs_compilation.cpp	8209076f83e9f797
+80	111	1720569423497675879	/home/xris/Dev/Qt/TextFinder/build/Desktop_Qt_6_7_2-Debug/TextFinder_autogen/timestamp	8209076f83e9f797
+80	111	1720569423497675879	/home/xris/Dev/Qt/TextFinder/build/Desktop_Qt_6_7_2-Debug/TextFinder_autogen/mocs_compilation.cpp	8209076f83e9f797
+112	4184	1720569423529676074	CMakeFiles/TextFinder.dir/textfinder.cpp.o	c9fe2255ec7261a3
+4184	4763	1720569427600700842	TextFinder	83dcfbcc8bc50cce
